@@ -1,4 +1,4 @@
-source("loadCourseProject1data.R")
+source("hpc.R")
 
 # generate histogram
 png("plot1.png", width=480, height=480)
